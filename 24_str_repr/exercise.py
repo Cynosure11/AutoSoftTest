@@ -12,5 +12,5 @@ class Store:
 
     def stock_price(self):
         # Add together all item prices in self.items and return the total.
-        self.stock_price.add(self.item)
+        return sum([item['price'] for item in self.items])
 
