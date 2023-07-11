@@ -1,2 +1,0 @@
-# AutoSoftTest
-Automation Software Testing
